@@ -5,7 +5,7 @@ welcome = %{
   </head>
   <body>
     <h1>Simple Ruby Application</h1>
-    <h3>Welcome</h3>
+    <h3>Welcome Test</h3>
   </body>
 </html>
 }
