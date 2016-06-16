@@ -6,6 +6,7 @@ welcome = %{
   <body>
     <h1>Simple Ruby Application</h1>
     <h3>Welcome Test</h3>
+    <p>This was added here on github.com</p>
   </body>
 </html>
 }
